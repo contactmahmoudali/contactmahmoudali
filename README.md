@@ -54,17 +54,3 @@ I am a Lead Software Engineer and Engineering Manager with over 15 years of expe
   </a>
 </p>
 
----
-
-### Badges
-
-#### My GitHub Stats
-
-<a href="http://www.github.com/contactmahmoudali">
-  <img src="https://github-readme-stats.vercel.app/api?username=contactmahmoudali&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=ffffff&icon_color=0891b2&bg_color=713f12&hide_border=true&show_icons=true" alt="contactmahmoudali's GitHub stats" />
-</a>
-
-<a href="https://github.com/contactmahmoudali" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=contactmahmoudali&langs_count=10&title_color=0f172a&text_color=ffffff&icon_color=0891b2&bg_color=713f12&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
-
