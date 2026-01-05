@@ -5,10 +5,12 @@
 I am a Lead Software Engineer and Engineering Manager with over 15 years of experience in creating and delivering large, secure, and easy-to-maintain software solutions. I focus on modern technologies like microservices, event-driven architectures, and cloud platforms (AWS and Azure) to build scalable business applications.
 
 - 🌍 **Based in**: United Kingdom
+- 📄 [**CV**](https://docs.google.com/document/d/1q0Pbzs9zL_0XxSe0w6kqFOBkZ6MagReo/edit?usp=sharing&ouid=115533578474876531941)
 - ✉️ **Contact**: [contactmahmoudali@gmail.com](mailto:contactmahmoudali@gmail.com)
 - 🚀 **Current Work**: [BigChange](http://www.bigchange.com/)
 - 🧠 **Currently Learning**: AI/ML & Cloud and DevOps
 - 💬 **Fun Fact**: Ask me about Manchester United!
+ 
 
 ---
 
