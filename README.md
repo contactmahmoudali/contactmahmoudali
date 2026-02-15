@@ -1,8 +1,8 @@
 ## Hi ![Hello Gif](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mahmoud Ali
 
-### Lead Software Engineer and Engineering Manager
+### Engineering Manager and Technical Lead
 
-I am a Lead Software Engineer and Engineering Manager with over 15 years of experience in creating and delivering large, secure, and easy-to-maintain software solutions. I focus on modern technologies like microservices, event-driven architectures, and cloud platforms (AWS and Azure) to build scalable business applications.
+I am an Engineering Manager and Technical Lead with over 15 years of experience in creating and delivering large, secure, and easy-to-maintain software solutions. I focus on modern technologies like microservices, event-driven architectures, and cloud platforms (AWS and Azure) to build scalable business applications.
 
 - 🌍 **Based in**: United Kingdom
 - 📄 [**CV**](https://docs.google.com/document/d/1q0Pbzs9zL_0XxSe0w6kqFOBkZ6MagReo/edit?usp=sharing&ouid=115533578474876531941)
